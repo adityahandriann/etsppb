@@ -4,7 +4,14 @@
 
 Proyek ini disusun untuk memenuhi kriteria **Mini Project (ETS) Mata Kuliah Pemrograman Perangkat Bergerak**.
 
-[![Demo Video SobatKost](https://img.youtube.com/vi/qTQrpZLIatI/0.jpg)](https://youtu.be/qTQrpZLIatI)
+<div align="center">
+  <a href="https://youtu.be/qTQrpZLIatI">
+    <img src="https://img.youtube.com/vi/qTQrpZLIatI/0.jpg" alt="Demo Video SobatKost" style="width:100%; max-width:600px;">
+  </a>
+  <p><i>Klik gambar di atas untuk menonton video demo</i></p>
+</div>
+
+atau klik link berikut: https://youtu.be/qTQrpZLIatI
 
 ---
 
