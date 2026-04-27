@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "682535097485",
+    "project_id": "etsppb-49814",
+    "storage_bucket": "etsppb-49814.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682535097485:android:b99f922d96ffe35cca7ec4",
+        "android_client_info": {
+          "package_name": "com.example.etsppb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3XYgWzdcixHd4kV-Kc2d-ib2DNz4O_7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

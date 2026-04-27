@@ -1,0 +1,36 @@
+name: etsppb
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.11.1
+
+dependencies:
+  cloud_firestore: ^5.6.3
+  firebase_auth: ^5.5.0
+  firebase_core: ^3.11.1
+  flutter:
+    sdk: flutter
+  path: ^1.9.1
+  provider: ^6.1.5+1
+  shared_preferences: ^2.5.5
+  sqflite: ^2.4.2+1
+  image_picker: ^1.1.2
+  firebase_storage: ^12.3.0
+  flutter_local_notifications: ^18.0.0
+  timezone: ^0.10.0
+  google_maps_flutter: ^2.7.0
+  share_plus: ^10.0.0
+  flutter_map: ^8.3.0
+  latlong2: ^0.9.1
+  awesome_notifications: 0.10.1
+  location: ^8.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
