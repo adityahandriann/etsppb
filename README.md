@@ -4,6 +4,8 @@
 
 Proyek ini disusun untuk memenuhi kriteria **Mini Project (ETS) Mata Kuliah Pemrograman Perangkat Bergerak**.
 
+[![Demo Video SobatKost](https://img.youtube.com/vi/qTQrpZLIatI/0.jpg)](https://youtu.be/qTQrpZLIatI)
+
 ---
 
 ## 🎯 Kriteria Penilaian (Checklist)
